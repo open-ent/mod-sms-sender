@@ -14,7 +14,7 @@
   <properties>
     <web-utils.version>3.4.0</web-utils.version>
     <jacksonDatabindVersion>2.15.2</jacksonDatabindVersion>
-    <micrometerPrometheusVersion>1.1.0</micrometerPrometheusVersion>
+    <micrometerPrometheusVersion>1.17.1</micrometerPrometheusVersion>
   </properties>
   <scm>
     <connection>scm:git:https://github.com/opendigitaleducation/mod-sms-sender.git</connection>
